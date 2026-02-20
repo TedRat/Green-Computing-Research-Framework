@@ -18,8 +18,8 @@ The long-term vision is to align technological progress with environmental respo
 ---
 ## Author
 
-Rathnayake T.M.
-Computer Science Undergraduate
-Independent Research Concept – Mutual Green Computing  
+Rathnayake T.M.  
+BSc (Hons) Computer Science Undergraduate  
+Independent Research Concept: Mutual Green Computing 
 
 ---
